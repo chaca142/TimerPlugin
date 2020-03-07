@@ -1,0 +1,11 @@
+name: TimerPlugin
+version: @version@
+main: com.chaca142.timerplugin.TimerPlugin
+api-version: 1.13
+authors: [chaca142]
+description: TimerPlugin
+
+commands:
+  timer:
+    description: "TimerPlugin"
+    usage: "/timer <time> or <stop>"
